@@ -1,0 +1,97 @@
+*{
+margin:0;
+padding: 0;
+}
+
+section{
+	font-family: 'Comfortaa', cursive;
+	background: #87E9FF;
+	background-image: url('img/back.png');
+	background-repeat: no-repeat;
+	height: 70%;
+}
+.header-content{
+	margin-top: 310px;
+}
+.header-content-text p{
+	font-size: 30px;
+	color: #FFFFFF;
+}
+.card-radius{
+	border-radius: 20px;
+	width: 90%;
+	height:95%
+	
+}
+.card-project{
+	border-radius: 20px;
+	width: 97%;
+	height:95%
+}
+.project-content h2{
+
+color: #1067A5;
+margin: 100px 0 50px 0;
+}
+.card-size-text{
+	color: #1067A5;
+	padding: 20px 15px 20px 15px;
+	font-size: 18px;
+
+}
+.about-project-text{
+	margin-bottom: 50px;
+}
+.about-project h2{
+	color: #1067A5;
+margin: 100px 0 50px 0;
+}
+.contact-project{
+	margin-bottom: 20px;
+	color: #1067A5;
+}
+.organizers-project h2{
+	color: #1067A5;
+	margin: 100px 0 50px 0;
+}
+.organizers-project-text {
+	font-size: 18px;
+}
+.requisites-project-body{
+	line-height: 30px;
+}
+.requisites-project-text{
+	color: #1067A5;
+	line-height: 30px;
+}
+.modal-header{
+	border: none;
+}
+.requisites-project-back{
+	margin-top: 30px;
+	background-image: url('img/back.png');
+	background-repeat: no-repeat;
+	height: 400px;
+}
+#footer{
+	background: #1067A5;
+	padding: 40px 0 40px 0;
+}
+.footer-text{
+	color: #FFFFFF;
+	font-size: 18px;
+line-height: 194.69%;
+}
+.form-style{
+	width: 80%;
+	margin:15px auto;
+}
+.form-style input{
+	padding:30px;
+}
+.btn-margin {
+
+    padding: 16px 50px 17px 50px;
+
+	margin-bottom: 30px;
+}
